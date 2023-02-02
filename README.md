@@ -15,7 +15,7 @@ Refreshing python requirements:
   - requirements_install_windows.bat
   - requirements_update_file_windows.bat
   
-2) Run "conda init powershell" through Anaconda prompt
+2) Open Anaconda prompt and run "conda init powershell"
 
 3) Then activate the desired environment in PowerShell using "conda activate <env>"
 
