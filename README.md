@@ -9,13 +9,11 @@ Refreshing python requirements:
 
 # Prerequisites for usage #
 1) Copy the two batch scripts to the root directory of your python project:
-- ROOT
+- ROOT_DIR
   - ...
   - requirements.txt
   - requirements_install_windows.bat
   - requirements_update_file_windows.bat
-  
-(Optionally, you can include them to a .gitignore file.)
   
 2) Run "conda init powershell" through Anaconda prompt
 
